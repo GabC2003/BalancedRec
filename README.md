@@ -14,7 +14,8 @@
 
 
 ## How to run
-python main.py
-environment: python 3.8 + pytorch 2.40 + cuda 12.1 + dgl py2.4+cu12.1
+python main.py  
+environment: python 3.8 + pytorch 2.40 + cuda 12.1 + dgl py2.4+cu12.1  
+arguments-config: parser.py
 
 
